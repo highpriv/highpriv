@@ -1,5 +1,5 @@
-- 👋 I'm a Javascript Developer
-- 👀 Django & ReactJS & VueJS & NodeJS
+- 👋 Actually I'm a Javascript Developer
+- 👀 ME(V/R/A)N Stack
 - 📫 Reach me: canberkberen@icloud.com
 
 <!---
