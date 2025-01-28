@@ -1,5 +1,5 @@
-- 👋 Actually I'm a Javascript Developer
-- 👀 ME(V/R/A)N Stack && Instructor @ Ucuncu Bin Yil Academy
+- 👋 Software Engineer
+- 👀 Instructor @UcuncuBin YilAcademy
 - 📫 Reach me: canberkberen@icloud.com
 
   
