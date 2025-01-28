@@ -2,8 +2,6 @@
 - 👀 Instructor @UcuncuBin YilAcademy
 - 📫 Reach me: canberkberen@icloud.com
 
-  
-![Gif](https://media1.giphy.com/media/YqEXXUExVnuwL2C7pQ/200w.webp?cid=ecf05e47lrajfuckcv6du0fqq3y62933kljrf3hju1xnndet&ep=v1_stickers_search&rid=200w.webp&ct=s)
 
 
   ![Vue](https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-vue-64.png)
