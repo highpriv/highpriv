@@ -78,20 +78,11 @@ Software Developer focused on building scalable, cloud-native, distributed syste
 
 ---
 
-## 📊 Live GitHub Metrics
+## 📊 Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=highpriv&show_icons=true&theme=transparent&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=highpriv&theme=transparent&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=highpriv&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/highpriv/highpriv/output/github-snake-dark.svg" />
