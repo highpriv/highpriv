@@ -110,6 +110,8 @@ Clean code is written by caring.”
 
 ## Wuubi - Project Architecture Mermaid
 
+- Full Preview → https://mermaid.ai/d/62af7a04-b1b3-4e06-8f69-aea59d72c61a
+
 ```mermaid
 %%{init: {
   "theme": "base",
