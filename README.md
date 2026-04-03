@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 Software Developer focused on building scalable, cloud-native, distributed systems.
 
@@ -34,11 +34,11 @@ Software Developer focused on building scalable, cloud-native, distributed syste
 - Mobile: React Native, Expo  
 - Cloud: AWS, Docker, Nginx  
 
-🌍 Open to global opportunities.
+Open to global opportunities.
 
 ---
 
-## ⚡ Tech Arsenal
+## Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" />
@@ -50,7 +50,7 @@ Software Developer focused on building scalable, cloud-native, distributed syste
 
 ---
 
-## 🏗 System Architecture Focus
+## System Architecture Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microfrontend-111111?style=for-the-badge"/>
@@ -62,23 +62,23 @@ Software Developer focused on building scalable, cloud-native, distributed syste
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-- 🧠 Scalable Social Media Platform  
+- Scalable Social Media Platform  
   Web + Mobile + Realtime + Event-driven architecture  
   React • React Native • GraphQL • RabbitMQ • AWS  
 
-- ⚡ Event-Driven Backend Architecture  
+- Event-Driven Backend Architecture  
   Node.js • GraphQL • RabbitMQ • Redis • Docker  
 
-- 🏗 Microfrontend Monorepo System  
+- Microfrontend Monorepo System  
   Next.js • Module Federation • Nx  
 
-(Pinned repositories below 👇)
+(Pinned repositories below)
 
 ---
 
-## 📊 Metrics
+## Metrics
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=highpriv&theme=transparent&hide_border=true" />
@@ -90,7 +90,7 @@ Software Developer focused on building scalable, cloud-native, distributed syste
 
 ---
 
-## 🧬 Engineering Philosophy
+## Engineering Philosophy
 
 “Clean code is not written by following rules.  
 Clean code is written by caring.”
@@ -103,7 +103,7 @@ Clean code is written by caring.”
 
 ---
 
-## 🤝 Connect
+## Connect
 
 - LinkedIn → https://tr.linkedin.com/in/canberk-beren  
 - Mail → canberkberen@icloud.com  
